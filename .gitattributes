@@ -1,0 +1,2 @@
+*.log filter=lfs diff=lfs merge=lfs -text
+euphoria_backend/src/euphoria_backend/debug.log filter=lfs diff=lfs merge=lfs -text
